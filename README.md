@@ -17,7 +17,7 @@
 - React ContextAPI (Login, Logout, State Management)
 - Html
 - TailWind CSS
-- Next.js 14
+- Next.js 15 (Turbopack)
 - Material UI
 - MUI X Charts
 - Pnpm
